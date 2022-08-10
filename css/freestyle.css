@@ -1,0 +1,28 @@
+h1{
+  color:red;
+  text-align:center;
+  font-style:oblique;
+  font-weight: bold;
+}
+
+h2{
+  color:goldenrod;
+  text-align:center;
+}
+
+p{
+  color:darkblue;
+  text-align:center;
+}
+
+ul{
+  color:lightseagreen;
+  text-align:left;
+}
+
+img{
+  float: inline-start;
+  width: 100px;
+  height: 100px;
+  object-fit: scale-down;
+}
