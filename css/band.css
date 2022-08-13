@@ -1,0 +1,51 @@
+body {
+  background-color: black;
+}
+
+.angel {
+  color: gold;
+  margin:auto;
+  width: 50%px;
+  display: block;
+ 
+}
+
+h1 {
+  text-align: center;
+  font-size: 100px;
+  color:red;
+}
+
+p {
+  color:orange;
+}
+
+.sign{
+  color:white;
+}
+
+img {
+  margin-left: auto;
+  margin-right:auto;
+  width: 50%;
+  display: block;
+  padding: 50x;
+  margin: 12px;
+  border: 100x solid gray
+}
+
+.sidebar{
+  color:silver;
+  width: 30%;
+  float: right;
+  background-color: blue;
+  margin: 12px;
+  border: 2px solid green;
+  padding:12x;
+  box-sizing: border-box;
+}
+
+.auto {
+  width:50%;
+  float: right;
+}

@@ -1,0 +1,33 @@
+body {
+  background-color: aqua;
+}
+h1 {
+  color:chocolate;
+  text-align: center;
+}
+
+.mainpic{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2 {
+  color: orange;
+  text-decoration: underline;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  color:yellow;
+}
+
+.info {
+  color: brown;
+  font-size: 50px;
+  font-weight:bold
+}

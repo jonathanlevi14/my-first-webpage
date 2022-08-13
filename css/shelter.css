@@ -1,0 +1,36 @@
+body {
+  background-color: tan;
+}
+h1 {
+ text-align: center;
+  color: brown
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  border: 2px solid green;
+  background-color: white;
+  width: 200px;
+  height: 200px;
+}
+
+
+
+.cloumn {
+  width: 300px;
+  float: right;
+  display: block;
+  border: 2px solid green;
+}
+
+img {
+  display: block;
+  margin-left: 0;
+  margin-right: auto;
+  width: 200px;
+  height: 200px;
+}
